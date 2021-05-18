@@ -5,6 +5,7 @@ body {
   background-color: #f2f2f2;
 }
 
+
 .movie-card {
   background-color: #fff;
   border: 0;
@@ -14,6 +15,7 @@ body {
   cursor: pointer;
   position: relative;
   margin: 1rem auto;
+  
 }
 
 .movie-director {
